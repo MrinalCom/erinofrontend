@@ -20,8 +20,8 @@ This project demonstrates a robust implementation of a Contact Management System
 ---
 
 ## Setup Instructions
-//Backend is hosted on server -https://erinobackend.onrender.com
-//Frontend is hosted on client -
+--Backend is hosted on server -https://erinobackend.onrender.com
+--Frontend is hosted on client -https://erinofrontend.vercel.app/
 
 --
 
